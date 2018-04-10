@@ -5,10 +5,10 @@ You can find the most recent version of this guide [here](https://github.com/loa
 
 ## How to Run Application
 
-Download ...
-Run : npm install
-Run : npm start
-Open your browser http://localhost:3000
+Download ...<br>
+Run : npm install<br>
+Run : npm start<br>
+Open your browser http://localhost:3000<br>
 
 ## Sending Feedback
 
